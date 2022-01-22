@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pierre-luc-perron
 - 👀 I’m interested in software engineering, distributed systems and data structures
 - 🌱 I’m currently learning rust and org-roam
-- 💞️ I’m looking to collaborate on gnu and apache projects
+- 💞️ I’m looking to collaborate on GNU and Apache projects
 - 📫 Github's PR and PM.
 
 <!---
